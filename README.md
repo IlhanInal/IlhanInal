@@ -46,7 +46,7 @@ I like **LLMs**, **applied ML** and **C#/.NET**. I'll spend a whole weekend chas
 ## 🔥 Things I'm cooking
 
 -  **SudyBrowser**: a minimal, memory-friendly Chromium-based browser built with WPF + XAML and MVVM. The world did not ask for another browser, but this one actually respects your RAM
--  **Turkish GPT-style LM**: ~110M params with differential attention. Turkish suffixes are doing their best to ruin my tokenizer
+-  **Turkish GPT-style LM**: ~330M params with differential attention. Turkish suffixes are doing their best to ruin my tokenizer
 -  **COPD Exacerbation early-warning system**: XGBoost + feature engineering on time series, built on Log-Normal/Markov synthetic clinical data
 -  **Natural language → structured commands**: you type "push my Tuesday stuff to Thursday", the backend gets clean JSON
 -  **ASP.NET Core MVC + React apps**: controllers, views, APIs, and React when the UI wants to look fancy. The boring kind that actually ships
