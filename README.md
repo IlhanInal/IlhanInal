@@ -55,12 +55,12 @@ I like **LLMs**, **applied ML** and **C#/.NET**. I'll spend a whole weekend chas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=8e8e8e" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IlhanInalE&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=8e8e8e" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhanInal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&ring=8E8E8E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B0B0B0&sideLabels=B0B0B0&dates=6E6E6E" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=IlhanInal&hide_border=true&background=0D0D0D&ring=8E8E8E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B0B0B0&sideLabels=B0B0B0&dates=6E6E6E" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0d0d&color=ffffff&line=8e8e8e&point=ffffff&area=true&area_color=3a3a3a&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhanInal&bg_color=0d0d0d&color=ffffff&line=8e8e8e&point=ffffff&area=true&area_color=3a3a3a&hide_border=true" width="95%"/>
 
 </div>
 
