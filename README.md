@@ -8,7 +8,7 @@
 
 <img src="assets/attention.png" alt="Attention is all you need" width="360"/>
 
-<sub><i>me, explaining why my model needs one more attention head</i></sub>
+<sub><i>we all need some attention for $20 per month </i></sub>
 
 <br/><br/>
 
@@ -51,18 +51,7 @@ I like **LLMs**, **applied ML** and **C#/.NET**. I'll spend a whole weekend chas
 -  **Natural language → structured commands**: you type "push my Tuesday stuff to Thursday", the backend gets clean JSON
 -  **ASP.NET Core MVC + React apps**: controllers, views, APIs, and React when the UI wants to look fancy. The boring kind that actually ships
 
-## 📊 Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IlhanInalE&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=8e8e8e" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhanInal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=IlhanInal&hide_border=true&background=0D0D0D&ring=8E8E8E&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B0B0B0&sideLabels=B0B0B0&dates=6E6E6E" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhanInal&bg_color=0d0d0d&color=ffffff&line=8e8e8e&point=ffffff&area=true&area_color=3a3a3a&hide_border=true" width="95%"/>
-
-</div>
 
 ## 📬 Reach me
 
